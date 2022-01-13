@@ -1,0 +1,32 @@
+.footer {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: -10px;
+}
+
+.logo {
+  display: grid;
+  justify-content: space-around;
+}
+
+h2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.author {
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+}
+
+.linkedin {
+  display: flex;
+  justify-content: space-around;
+}
+
+img.footer-logo {
+  height: 100px;
+}

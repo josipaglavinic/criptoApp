@@ -1,0 +1,38 @@
+.transaction-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.transaction {
+  margin: 10px;
+  padding: 5px;
+  color: white;
+  background-color: #313131;
+  border-radius: 10px;
+}
+
+.trans-time {
+  color: #ca8619;
+}
+
+label {
+  color: black;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: #ca8619;
+}
+
+hr.transaction-line {
+  display: flex;
+  width: auto;
+  border-color: #3131313f;
+  margin-bottom: 15px;
+}
