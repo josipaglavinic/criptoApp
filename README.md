@@ -1,7 +1,7 @@
 # criptoApp
 
 ## Description
-A blockchain application that combines ReactJS and Solidty and pair it to your Ethereum wallet using MetaMask to send ETH.
+A blockchain application that combines ReactJS and Solidity and pair it to your Ethereum wallet using MetaMask to send ETH.
 
 ## Features 
 - connecting to blockchain
@@ -9,6 +9,7 @@ A blockchain application that combines ReactJS and Solidty and pair it to your E
 - smart contracts
 - send Ethereum trought the blockchain network
 - Solidity
+- ReactJS
 - latest transactions
 
 ## Design
